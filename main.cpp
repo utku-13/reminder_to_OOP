@@ -14,6 +14,9 @@ using namespace std;
 
 //even if it is simple to implement do not do it in the header file do it on its cpp. Program crashed on that project multiple times.
 
+// just another note
+
+
 int main() {
 
     cout << "Hello, World!" << endl;
